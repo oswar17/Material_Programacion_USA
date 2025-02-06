@@ -2,8 +2,5 @@
 
 # Material_Programacion_USA
 
-#Talleres ejecutados en grupo con Michael Lopez
+#Talleres realizados en colaboración con Michael López y alojados en su repositorio de Git.
 
-Esto es una modificación 
-
-# esto es un cambio hecho por otra persona
